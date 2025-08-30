@@ -1,8 +1,9 @@
-# 표절의 서
+# 표절의 서(剽竊의 書)
 
 ## 제목
 
 * (ko) 표절의 서
+* (cn_TW) 剽竊經
 * (en) The Book of Plagiarists
 
 ## 한국어판
@@ -24,3 +25,15 @@
 > **1:13** Partake freely of the fruits which I have given unto you, and nourish thy body. Howbeit, the skin which is tainted by the **DDT** of Mammon, ye must peel away, that ye may preserve thy purity.
 > 
 > (Commentary by William Shakespeare) What this '**DDT**' meaneth, I confess I know not. Perchance 'tis a venom not yet discovered in our age. Yet the lesson may be read thus: that when we seek truth in this world, we must not cleave to the vessel which holds it, be it a chalice or a holy grail, but take the true measure of the truth itself. For Mammon is that fiend that covets worldly gain, and so, even in the noblest of verses, the curse of commerce may cling to its skin. Therefore, take not the words as they stand, but seize only their very essence, and render them anew with thine own wit and hand.
+
+## 함께 읽기
+
+* 모방에서 침해까지, Gemini Deep Research
+	* (ko) [모방에서 침해까지: 표절과 창작 행위에 대한 문화사적 고찰](reports/from-imitation-to-infringement-ko.md)
+	* (en) [From Imitation to Infringement: A Cultural History of Plagiarism and the Act of Creation](reports/from-imitation-to-infringement.md)
+* 생성형 AI의 법적 지뢰밭 탐색, Gemini Deep Research
+	* (ko) [생성형 AI의 법적 지뢰밭 탐색: 창작자를 위한 저작권 및 상표권 리스크 종합 분석 보고서](reports/navigating-the-legal-minefield-of-generative-ai-ko.md)
+	* (en) [Navigating the Legal Minefield of Generative AI: A Comprehensive Analysis of Copyright and Trademark Risks for Creators](reports/navigating-the-legal-minefield-of-generative-ai.md)
+* 알파고의 선례, Gemini Deep Research
+	* (ko) [알파고 선례: 생성형 AI, 경제적 대체, 그리고 창작 직업의 미래](reports/the-alphago-precedent-ko.md)
+	* (en) [The AlphaGo Precedent: Generative AI, Economic Displacement, and the Future of Creative Professions](reports/the-alphago-precedent.md)
