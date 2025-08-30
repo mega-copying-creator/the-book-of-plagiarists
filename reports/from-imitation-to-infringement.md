@@ -1,7 +1,6 @@
 # From Imitation to Infringement: A Cultural History of Plagiarism and the Act of Creation
 
-_Gemini Deep Resaerch_
-_August 31, 2025_
+_Gemini Deep Resaerch_, _August 31, 2025_
 
 ## Prompt
 

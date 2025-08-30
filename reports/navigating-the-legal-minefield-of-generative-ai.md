@@ -1,7 +1,6 @@
 # Navigating the Legal Minefield of Generative AI: A Comprehensive Analysis of Copyright and Trademark Risks for Creators
 
-_Gemini Deep Research_
-_August 31, 2025_
+_Gemini Deep Research_, _August 31, 2025_
 
 Because the legal issues surrounding AI are still ongoing and not yet resolved, the situation may change significantly after the date of this report, and the legal advice below may no longer be valid.
 

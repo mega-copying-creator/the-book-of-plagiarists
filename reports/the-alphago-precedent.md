@@ -1,7 +1,6 @@
 # The AlphaGo Precedent: Generative AI, Economic Displacement, and the Future of Creative Professions
 
-_Gemini Deep Research_
-_August 31, 2025_
+_Gemini Deep Research_, _August 31, 2025_
 
 Because the legal issues surrounding AI are still ongoing and not yet resolved, the situation may change significantly after the date of this report, and the legal advice below may no longer be valid.
 
@@ -11,7 +10,8 @@ Because the legal issues surrounding AI are still ongoing and not yet resolved, 
 > 
 > While it's still unclear how the future will unfold, if there's one area that offers a hint, it's Go. Since AlphaGo, which learned using deep learning, Go has already left human hands and entered the realm of AI. Now, top-tier professional Go players are learning from AI.
 > 
-> Please find data on whether the market size and public perception of Go have changed since AI surpassed humans in Go skill. >
+> Please find data on whether the market size and public perception of Go have changed since AI surpassed humans in Go skill.
+> 
 > And I believe that similar cases of AI cheating in the world of Baduk could arise between generative AI and creators. Please also investigate trends in AI cheating.
 
 ---

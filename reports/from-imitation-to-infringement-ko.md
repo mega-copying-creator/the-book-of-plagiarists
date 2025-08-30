@@ -1,7 +1,6 @@
 # 모방에서 침해까지: 표절과 창작 행위에 대한 문화사적 고찰
 
-_Gemini Deep Resaerch_
-_2025-08-31_
+_Gemini Deep Resaerch_, _2025-08-31_
 
 ### Prompt
 
