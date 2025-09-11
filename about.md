@@ -1,8 +1,31 @@
 # 소개
 
 * (ko) 메가표절창작자
-* (zh) 摩克剽竊創作者/摩克剽**窃**创作者 (마극표절창작자, Mókè piāoqiè chuàngzuòzhě)
+* (zh) 摩克剽竊創作者/摩克剽窃创作者 (마극표절창작자, Mókè piāoqiè chuàngzuòzhě)
 * (en) Mega Copying Sampler
+
+## 변명
+
+> <메가표절이란 이름에 대해 변명함> \
+>  \
+> 백만 선현의 지혜 \
+> 못나고 태만하여 잇지 못해 \
+> 마음으론 이 악물고 따르려나 \
+> 바보라서 베껴서 존경할 뿐
+
+> <辯摩克剽竊之名 / 辩摩克剽窃之名 (변마극표절지명, Biàn mó kè piāoqiè zhī míng)> \
+>  \
+> 百萬先賢傳授慧/百万先贤传授慧 (백만선현전수혜, Bǎi wàn xiānxián zhuàn shòu huì) \
+> 後生不肖慢承之/后生不肖慢承之 (후생불초만승지, Hòushēng bùxiào màn chéng zhī) \
+> 有心切齒從先學/有心切齿从先学 (유심절치종선학, Yǒuxīn qièchǐ cóng xiān xué) \
+> 不得遲才模慕之/不得迟才模慕之 (부득지재모모지, Bùdé chí cái mó mù zhī)
+
+> <In Defense of "Mega Copying"> \
+>  \
+> A million sages, their wisdom they show, \
+> But I can't follow, lazy and slow. \
+> A junior must sharpen his own intellect, \
+> But this fool can but copy with respect.
 
 ## 다른 이름
 
@@ -16,4 +39,3 @@
 * 기독교: 요한(John, Yochanan, יוֹחָנָן) - 하느님(야훼)은 자비로우시다
 * 불교: 법희(法喜, धर्मप्रीति, Dharmapreet, 다르마쁘리티) - 불법(佛法, Dharma) 안에서 기쁨을 찾음
 * 아메리카 원주민: F10을 눌러 메뉴를 여세요(Press F10 to Show Menu)
-
