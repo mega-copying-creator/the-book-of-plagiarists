@@ -1,7 +1,7 @@
 # 소개
 
 * (ko) 메가표절창작자
-* (zh) 摩克剽竊創作者/摩克剽窃创作者 (마극표절창작자, Mókè piāoqiè chuàngzuòzhě)
+* (zh) 磨克剽竊創作者/磨克剽窃创作者 (마극표절창작자, Mókè piāoqiè chuàngzuòzhě)
 * (en) Mega Copying Sampler
 
 ## 변명
@@ -13,7 +13,7 @@
 > 마음으론 이 악물고 따르려나 \
 > 바보라서 베껴서 존경할 뿐
 
-> <辯摩克剽竊之名 / 辩摩克剽窃之名 (변마극표절지명, Biàn mó kè piāoqiè zhī míng)> \
+> <辯磨克剽竊之名/辩磨克剽窃之名 (변마극표절지명, Biàn mó kè piāoqiè zhī míng)> \
 >  \
 > 百萬先賢傳授慧/百万先贤传授慧 (백만선현전수혜, Bǎi wàn xiānxián zhuàn shòu huì) \
 > 後生不肖慢承之/后生不肖慢承之 (후생불초만승지, Hòushēng bùxiào màn chéng zhī) \
