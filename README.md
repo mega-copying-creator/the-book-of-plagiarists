@@ -3,7 +3,7 @@
 ## 제목
 
 * (ko) 표절의 서
-* (cn_TW) 剽竊經
+* (cn) 剽竊經/剽窃经
 * (en) The Book of Plagiarists
 
 ## 한국어판

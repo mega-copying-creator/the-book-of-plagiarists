@@ -3,24 +3,27 @@
 * (ko) 메가표절창작자
 * (zh) 磨克剽竊創作者/磨克剽窃创作者 (마극표절창작자, Mókè piāoqiè chuàngzuòzhě)
 * (en) Mega Copying Sampler
+* (ja) メガ剽窃創作者 (메가 효세츠 소사쿠샤, Mega Hyōsetsu Sōsakusha)
 
 ## 변명
 
-> <메가표절이란 이름에 대해 변명함> \
+> \<메가표절이란 이름에 대해 변명함> \
 >  \
-> 백만 선현의 지혜 \
-> 못나고 태만하여 잇지 못해 \
-> 마음으론 이 악물고 따르려나 \
-> 바보라서 베껴서 존경할 뿐
+> 온[^K1]골[^K2] 스승님들 지혜에 묻혀 \
+> 게으른 불초 후생 가랑이서 피가 나네 \
+> 어엿븐 바보는 우러러 베낍니다
 
-> <辯磨克剽竊之名/辩磨克剽窃之名 (변마극표절지명, Biàn mó kè piāoqiè zhī míng)> \
+[^K1]: 온: 백(百, 100)을 뜻하는 고어
+[^K2]: 골: 만(萬, 10000)을 뜻하는 고어
+
+> \<辯磨克剽竊之名/辩磨克剽窃之名 (변마극표절지명, Biàn mó kè piāoqiè zhī míng)> \
 >  \
 > 百萬先賢傳授慧/百万先贤传授慧 (백만선현전수혜, Bǎi wàn xiānxián zhuàn shòu huì) \
 > 後生不肖慢承之/后生不肖慢承之 (후생불초만승지, Hòushēng bùxiào màn chéng zhī) \
 > 有心切齒從先學/有心切齿从先学 (유심절치종선학, Yǒuxīn qièchǐ cóng xiān xué) \
 > 不得遲才模慕之/不得迟才模慕之 (부득지재모모지, Bùdé chí cái mó mù zhī)
 
-> <In Defense of "Mega Copying"> \
+> \<In Defense of "Mega Copying"> \
 >  \
 > A million sages, their wisdom they show, \
 > But I can't follow, lazy and slow. \
