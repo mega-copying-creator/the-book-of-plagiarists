@@ -1,4 +1,5 @@
-# 詩
+# 로제타 詩 (Rosetta Poetry)
+
 
 ## 메가표절이란 이름에 대해 변명함
 
@@ -131,3 +132,37 @@
 
 [^C1]: 논어(論語)의 첫 구절. [學而時習之不亦悅乎](https://db.cyberseodang.or.kr/front/alphaList/BookMain.do?bnCode=jti_1h0301&titleId=C2)
 [^C2]: [Standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants)
+
+## "꽃은 사쿠라, 사람은 무사"라고?
+
+> \<"꽃은 사쿠라, 사람은 무사"라고?>
+> 
+> 기후[^D1]의 언덕에
+ >사쿠라가 피었건만
+ >무사는 어디에
+
+> <ruby>今日<rt>きょう</rt></ruby>「<ruby>花<rt>はな</rt></ruby>は桜さくら<ruby>木<rt>き</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>は<ruby>武士<rt>ぶし</rt></ruby>」と<ruby>聞<rt>き</rt></ruby>いた。
+> (Kyō "hana wa sakuragi, hitoha bushi" to ki'ita.)
+> 
+> <ruby>岐<rt>ぎ</rt></ruby><ruby>阜<rt>ふ</rt></ruby>[^D1]の<ruby>丘<rt>おか</rt></ruby> (Gifu no oka) \
+> <ruby>桜<rt>さくら</rt></ruby>は<ruby>咲<rt>さ</rt></ruby>けど (Sakura ga sakedo) \
+> <ruby>武<rt>ぶ</rt></ruby><ruby>士<rt>し</rt></ruby>はどこ (Bushi wa doko)
+
+> \<聽聞花冠櫻花人宗武士>
+> 
+> 岐阜[^D1]丘兮歆櫻花 (기부구혜흠앵화) \
+> 想武士兮過榮嗟 (상무사혜과영차)
+> 
+> <听闻花冠樱花人宗武士 (Tīngwén huāguān yīnghuā rén zōng wǔshì)>
+> 
+> 岐阜[^D1]丘兮歆樱花 (Qífù qiū xī xīn yīnghuā) \
+> 想武士兮过荣嗟 (Xiǎng wǔshì xīguò róng jiē)
+
+> \<For flowers, the cherry blossom; for men, the samurai>
+> 
+> The Japanese proverb, "For flowers, the cherry blossom; for men, the samurai," expresses the ideal of a life lived brilliantly and sacrificed gracefully, like a sakura petal falling in full bloom.
+> 
+> On Gifu[^D1]'s hill, cherry blossoms will bloom like snows.
+> The spirits of the samurai might be there, who knows?
+
+[^D1]: 岐阜(ぎふ, Gifu, 기후): 오다노부나가(織田 信長)의 근거지이자 세키가하라(關ヶ原)가 있는 지역.
